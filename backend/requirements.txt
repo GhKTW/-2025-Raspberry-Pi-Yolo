@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mysql-connector-python
+pydantic
+opencv-python
+numpy
+python-dotenv
+pytz
+openai
