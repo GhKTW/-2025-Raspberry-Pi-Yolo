@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['target_bot']
+
+roboflow:
+  workspace: hamsteryolo
+  project: yolov11s
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hamsteryolo/yolov11s/dataset/5
