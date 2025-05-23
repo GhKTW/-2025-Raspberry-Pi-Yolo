@@ -1,6 +1,8 @@
 # 2025-Raspberry-Pi-Yolo
 RP5와 Yolo를 이용한 객체 탐지 및 모니터링 시스템 개발
 
+![Image](https://github.com/user-attachments/assets/8fb6c870-e76e-48b0-97d5-2e6c9aaaec7e)
+
 # backend
 GCP클라우드에 올라가는 백엔드 코드 파일입니다
 
@@ -13,6 +15,7 @@ GCP클라우드에 올라가는 백엔드 코드 파일입니다
 
 # frontend
 실시간 스트리밍, 데이터 모니터링을 위한 대시보드
+![Image](https://github.com/user-attachments/assets/d1f72bc5-8809-4680-8b42-17f356f1639c)
 
 ## 기능
 - 로컬호스트에서 스트리밍되는 실시간 영상 스트리밍
@@ -20,6 +23,7 @@ GCP클라우드에 올라가는 백엔드 코드 파일입니다
 
 # Raspberry Pi 5
 라즈베리파이 5 8GB를 이용한 센서 감지 및 온보드 yolo 모델 구동 파일입니다
+![Image](https://github.com/user-attachments/assets/ad73cb70-6080-4059-89a5-08bcaa98f317)
 
 ## 기능
 ### main.py
@@ -55,12 +59,14 @@ GCP클라우드에 올라가는 백엔드 코드 파일입니다
 
 # Yolov8n
 객체 탐지를 위해 Yolov8n 모델을 파인튜닝하는 코드입니다.
+![Image](https://github.com/user-attachments/assets/03146e02-00fd-4004-8f94-e5202fd203dd)
 
 ## 기능
 - colab을 이용, 직접 라벨링한 데이터를 이용해 yolov8n 모델을 파인튜닝
 
 # AduinoRcCar
 객체 탐지로 사용될 동물을 대체하는 rc카 프로토타입
+![Image](https://github.com/user-attachments/assets/67eddd1f-1c04-4aeb-9afd-e565d0793832)
 
 ## 기능
 - 확률적으로 정해진 행동을 함
